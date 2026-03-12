@@ -148,3 +148,4 @@ examy-portal/
 3. Update database credentials.
 4. Host backend on a VPS (AWS, DigitalOcean) and use PM2 (`pm2 start server.js`) for keeping the app alive.
 5. Set up Nginx as a reverse proxy targeting port `3000`.
+
